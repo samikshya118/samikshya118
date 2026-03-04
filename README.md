@@ -47,17 +47,6 @@ retail behaviour patterns decoded through feature analysis and visual storytelli
 
 ---
 
-## a lil more about me
-
-i like the moment right before a model converges.
-that tiny dip in loss that means something clicked — that's the feeling i chase.
-
-- obsessed with finding patterns in things that look like noise
-- quiet in a room, loud in a jupyter notebook
-- bad at sleep, great at debugging at 2am
-- anime, badminton, and occasional existential crises about model interpretability
-
----
 
 ## 🧰 stack
 
@@ -93,13 +82,5 @@ always down for collabs, late-night model training sessions, or just geeking out
 
 > *"a model isn't done when it works. it's done when you understand why it works."*
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F4539,100:0E5484&height=80&section=footer"/>
-</p> systems, or have a wild hackathon idea that *somehow* becomes real — let's talk.
-always down for collabs, late-night model training sessions, or just geeking out over a weird dataset.
 
-> *"a model isn't done when it works. it's done when you understand why it works."*
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F4539,100:0E5484&height=80&section=footer"/>
-</p>
